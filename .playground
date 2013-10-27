@@ -1,0 +1,5 @@
+{
+  "template_name" : "Simple AngularJS CRUD app",
+  "template_description" : "A simple AngularJS CRUD application backed by the datastore.",
+  "open_files": ["app/js/app.js"]
+}
