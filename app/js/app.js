@@ -31,16 +31,16 @@ App.factory('guestService', function($rootScope, $http, $q, $log) {
 App.config(function($routeProvider) {
   $routeProvider.when('/', {
     controller : 'MainCtrl',
-    templateUrl: 'main.html',
+    templateUrl: '/partials/main.html',
     resolve    : { 'guestService': 'guestService' },
   });
   $routeProvider.when('/invite', {
     controller : 'InsertCtrl',
-    templateUrl: 'insert.html',
+    templateUrl: '/partials/insert.html',
   });
   $routeProvider.when('/update/:id', {
     controller : 'UpdateCtrl',
-    templateUrl: 'update.html',
+    templateUrl: '/partials/update.html',
     resolve    : { 'guestService': 'guestService' },
   });
   $routeProvider.otherwise({
