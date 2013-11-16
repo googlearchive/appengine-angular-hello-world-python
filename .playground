@@ -1,5 +1,5 @@
 {
-  "template_name" : "Simple AngularJS CRUD app",
-  "template_description" : "A simple AngularJS CRUD application backed by the datastore.",
+  "template_name" : "AngularJS CRUD - datastore",
+  "template_description" : "Simple AngularJS CRUD application using App Engine's Cloud datastore",
   "open_files": ["app/js/app.js"]
 }
