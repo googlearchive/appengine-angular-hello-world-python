@@ -1,5 +1,5 @@
 {
-  "template_name" : "AngularJS CRUD - datastore",
-  "template_description" : "Simple AngularJS CRUD application using App Engine's Cloud datastore",
+  "project_name" : "AngularJS CRUD - datastore",
+  "project_description" : "Simple AngularJS CRUD application using App Engine's Cloud datastore",
   "show_files": []
 }
