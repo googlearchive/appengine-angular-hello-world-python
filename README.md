@@ -1,3 +1,9 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project has moved.  
+
+For new work on this check out [python-docs-samples/appengine/angular](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/angular)
+
 ## App Engine AngularJS "Hello World" Python
 
 A simple [AngularJS](http://angularjs.org/) CRUD application
